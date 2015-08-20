@@ -25,7 +25,7 @@
 
 ### Work History
 
-#### porch.com - Premier Home Services Startup
+#### [porch.com](https://www.linkedin.com/company/porch) - Premier Home Services Startup
 September 2013 – January 2015  
 Senior Software Engineer  
 
@@ -41,7 +41,7 @@ As part of a team, worked on many projects and services. Examples:
 * Build tools, deploy tools, Dev. Ops. support, Pager Duty, VPC migration
 * Database migrations, query optimizations (GIS, term search, and other wise) Dropwizard Services of Acceptance/Integration Testing for most of above
 
-#### Opera Solutions - Predictive Analytics Startup
+#### [Opera Solutions](https://www.linkedin.com/company/opera-solutions) - Predictive Analytics Startup
 December 2011 – August 2013     
 Senior Software Engineer  
 
@@ -57,7 +57,7 @@ Accomplishments:
 * Tensor Library - Java + Jython internal library/best practices for model development and deployment, model summary GUI. Originally Clojure+Java
 * Novel application of existing software tools to data-science problems
 
-#### Gaikai - Browser Based Video Game Streaming Startup
+#### [Gaikai](https://www.linkedin.com/company/gaikai) - Browser Based Video Game Streaming Startup
 August 2011 - December 2011   
 Software Engineer  
 
