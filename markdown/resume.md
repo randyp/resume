@@ -30,7 +30,7 @@ Senior Software Engineer
 * [Ben Walker](https://www.linkedin.com/pub/benjamin-walker/a/502/4a6)
 * [Kyle Van Vranken](https://www.linkedin.com/in/kylevanvranken)
 
-#### Description
+##### Description
 Development/refactoring of services, development tools, java mentoring using test driving development, and general problem solving essential to porch.com’s growth.
 As part of a team, worked on many projects and services. Examples:
 * Managed Data Service to capture Master Data Management best practices for porch’s domain Publish Service (denormalize & aggregate master relational DB using Kakfa) Company/Home Professional, Project, and Image Search Service
