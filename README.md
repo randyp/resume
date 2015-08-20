@@ -92,6 +92,13 @@ Graduated: June 14 2009
 
 ### About
 
-Who am I? I am a Stanford Graduate devoted to holistic software engineering. My initial work at SpeedTax was developing web applications and services has proven immediately valuable to all of my employers. Next I worked in the analytics department in Opera Solutions under Frank Elliott, Carmine Magian and Kathleen Crowe. My position there was scientifically compelling and gave me a unique engineering perspective on the effort it takes to build a predictive analytics tools and products. Finally I contributed to porch.com’s rapid growth
+Who am I? I am a Stanford Graduate devoted to holistic software engineering.
+My initial work at SpeedTax was developing web applications and services has proven immediately valuable to all of my employers.
+Next I worked in the analytics department in Opera Solutions under Frank Elliott, Carmine Mangione and Kathleen Crowe.
+My position there was scientifically compelling and gave me a unique engineering perspective on the effort it takes to build a predictive analytics tools and products.
+Finally I contributed to porch.com’s rapid growth
 
-My family and peers describe me as a very balanced individual. My employers will gladly tell you about my outstanding work ethic, effective communication abilities, and flexible attitude. Some past friends had nicknamed me superman. I suspect they did so because of my mild manner. However, my work is anything but mild. I prefer high-velocity, agile work environments where I have a direct impact on the product at hand.
+My family and peers describe me as a very balanced individual.
+My employers will gladly tell you about my outstanding work ethic, effective communication abilities, and flexible attitude.
+Some past friends had nicknamed me superman. I suspect they did so because of my mild manner.
+However, my work is anything but mild. I prefer high-velocity, agile work environments where I have a direct impact on the product at hand.
