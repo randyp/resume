@@ -38,6 +38,8 @@ As part of a team, worked on many projects and services. Examples:
 * Build tools, deploy tools, Dev. Ops. support, Pager Duty, VPC migration
 * Database migrations, query optimizations (GIS, term search, and other wise) Dropwizard Services of Acceptance/Integration Testing for most of above
 
+
+
 #### Opera Solutions - Predictive Analytics Startup
 December 2011 – August 2013     
 Senior Software Engineer  
@@ -54,6 +56,8 @@ Accomplishments:
 * Tensor Library - Java + Jython internal library/best practices for model development and deployment, model summary GUI. Originally Clojure+Java
 * Novel application of existing software tools to data-science problems
 
+
+
 #### Gaikai - Browser Based Video Game Streaming Startup
 August 2011 - December 2011   
 Software Engineer  
@@ -63,6 +67,8 @@ Software Engineer
 
 ##### Description
 During my brief employment rewrote a mission-critical client-facing web service directing clients available servers to start a game session 
+
+
 
 #### SpeedTax - Sales Tax Calculation/Remittance S.A.S. Startup
 December 2009 – July 2011   
@@ -80,10 +86,14 @@ Agile Java Development and IT essential to growth and sale of SpeedTax. Part of 
 * Tax Return Software maintenance using Velocity mapping files, PDF FormCalc and javascript Performance tuning, database migrations and query optimization
 * Leadership during transition between Directors of Engineering
 
+
+
 ### Education
 Stanford University, BS Computer Science  Stanford, CA 94305 
 GPA: 3.337 
 Graduated: June 14 2009
+
+
 
 ### About
 
