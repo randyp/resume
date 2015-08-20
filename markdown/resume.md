@@ -1,6 +1,6 @@
 ## Randy Pensinger - Professional Software Developer
 
-### Skills
+### Primary Skills
 * Expert Java Development and Broad Experience in Related Fields
 * Adept in Extreme/Agile Development Disciplines
 * Object Oriented Design/Pair-Programming/Test Driven Development Mentor
@@ -13,7 +13,7 @@
 * Recent Experience with Message Queue Technologies (Kafka, RabbitMQ)
 * Rudimentary Understanding of Generalized Linear Models using Iterative Methods
 
-
+### Secondary Skills
 * General IT Troubleshooting and Communication Experience
 * Amazon EC2 and S3 Experience
 * GIS Experience using PostGIS Plugin, OpenJUMP and Google Earth
