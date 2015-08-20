@@ -39,6 +39,8 @@ As part of a team, worked on many projects and services. Examples:
 * Build tools, deploy tools, Dev. Ops. support, Pager Duty, VPC migration
 * Database migrations, query optimizations (GIS, term search, and other wise) Dropwizard Services of Acceptance/Integration Testing for most of above
 
+<hr>
+
 #### Opera Solutions - Predictive Analytics Startup
 December 2011 – August 2013     
 Senior Software Engineer  
