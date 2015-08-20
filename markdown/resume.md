@@ -1,5 +1,4 @@
-# Randy Pensinger
-## Professional Software Developer
+## Randy Pensinger - Professional Software Developer
 
 ### Skills
 * Expert Java Development and Broad Experience in Related Fields
