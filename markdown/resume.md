@@ -21,6 +21,8 @@
 * Minor Experience with Other Web-Programming Languages: PHP, Ruby (on Rails), Flash
 * Minor Experience with LISP, Verilog, Python, LUA and MIPS Assembly Code
 
+<hr>
+
 ### Work History
 
 #### porch.com - Premier Home Services Startup
@@ -38,8 +40,6 @@ As part of a team, worked on many projects and services. Examples:
 * Managed Data Service to capture Master Data Management best practices for porch’s domain Publish Service (denormalize & aggregate master relational DB using Kakfa) Company/Home Professional, Project, and Image Search Service
 * Build tools, deploy tools, Dev. Ops. support, Pager Duty, VPC migration
 * Database migrations, query optimizations (GIS, term search, and other wise) Dropwizard Services of Acceptance/Integration Testing for most of above
-
-<hr>
 
 #### Opera Solutions - Predictive Analytics Startup
 December 2011 – August 2013     
@@ -82,6 +82,8 @@ Agile Java Development and IT essential to growth and sale of SpeedTax. Part of 
 * Web Console development using ExtJS, jQuery for myspeedtax.com
 * Tax Return Software maintenance using Velocity mapping files, PDF FormCalc and javascript Performance tuning, database migrations and query optimization
 * Leadership during transition between Directors of Engineering
+
+<hr>
 
 ### Education
 Stanford University, BS Computer Science  Stanford, CA 94305 
