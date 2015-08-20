@@ -6,14 +6,16 @@
 * Object Oriented Design/Pair-Programming/Test Driven Development Mentor
 * Practiced Web Application Authorship and Design
 * Expert SQL and JDBC Programmer, Apprentice MySQL/Postgres+PostGIS DBA
-* Proficient HTML/Javascript/CSS Developer Using JQuery, D3JS Javascript Libraries
+* Proficient HTML/Javascript/CSS Developer Using JQuery, D3JS, Angular Javascript Libraries
 * Proficient Unix User, Apprentice Administrator
 * Advanced Understanding of the JVM
-* Recent Experience with JVM Scripting Languages (Jython, Clojure)
-* Recent Experience with Message Queue Technologies (Kafka, RabbitMQ)
-* Rudimentary Understanding of Generalized Linear Models using Iterative Methods
+* Proficient with Message Queue Technologies (Kafka, RabbitMQ)
+* Experience with Redis
+* Experience with JVM Scripting Languages (Jython, Clojure)
 
 ### Secondary Skills
+* Rudimentary Understanding of Generalized Linear Models using Iterative Methods
+* Elastic Search Index development
 * General IT Troubleshooting and Communication Experience
 * Amazon EC2 and S3 Experience
 * GIS Experience using PostGIS Plugin, OpenJUMP and Google Earth
