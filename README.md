@@ -73,6 +73,7 @@ Software Engineer
 
 ##### Contacts
 * [Carmine Mangione](https://www.linkedin.com/pub/carmine-mangione/0/531/657), Chief Architect
+* [Justin Beltran](https://www.linkedin.com/in/justinvbeltran)
 
 ##### Description
 Agile Java Development and IT essential to growth and sale of SpeedTax. Part of a four- man development team practicing Extreme Programming under Carmine Mangione responsible for:
