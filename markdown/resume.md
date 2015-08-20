@@ -12,6 +12,8 @@
 * Recent Experience with JVM Scripting Languages (Jython, Clojure)
 * Recent Experience with Message Queue Technologies (Kafka, RabbitMQ)
 * Rudimentary Understanding of Generalized Linear Models using Iterative Methods
+
+
 * General IT Troubleshooting and Communication Experience
 * Amazon EC2 and S3 Experience
 * GIS Experience using PostGIS Plugin, OpenJUMP and Google Earth
