@@ -33,7 +33,7 @@ Senior Software Engineer
 
 #### Description
 Development/refactoring of services, development tools, java mentoring using test driving development, and general problem solving essential to porch.com’s growth.
-As part of a team, worked on many projects and services. Examples are:
+As part of a team, worked on many projects and services. Examples:
 * Managed Data Service to capture Master Data Management best practices for porch’s domain Publish Service (denormalize & aggregate master relational DB using Kakfa) Company/Home Professional, Project, and Image Search Service
 * Build tools, deploy tools, Dev. Ops. support, Pager Duty, VPC migration
 * Database migrations, query optimizations (GIS, term search, and other wise) Dropwizard Services of Acceptance/Integration Testing for most of above
