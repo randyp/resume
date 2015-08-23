@@ -48,9 +48,9 @@ December 2011 – August 2013 
 Senior Software Engineer  
 
 ##### Contacts
-* [Frank Elliott Jr PhD](https://www.linkedin.com/pub/frank-elliott/2/ba0/490), Principal Scientist
-* [Carmine Mangione](https://www.linkedin.com/pub/carmine-mangione/0/531/657), Chief Architect
-* [Kathleen Crowe PhD](https://www.linkedin.com/pub/kathleen-crowe/7/a70/100), Director of Analytics
+* [Frank Elliott Jr PhD](https://www.linkedin.com/pub/frank-elliott/2/ba0/490)
+* [Carmine Mangione](https://www.linkedin.com/pub/carmine-mangione/0/531/657)
+* [Kathleen Crowe PhD](https://www.linkedin.com/pub/kathleen-crowe/7/a70/100)
 
 ##### Description
 Holistic Software Engineering for the analytics department with three primary goals: algorithm development, internal software libraries, and predictive analytics proof-of-concepts.
@@ -64,7 +64,7 @@ August 2011 - December 2011   
 Software Engineer  
 
 ##### Contacts
-[Ueli Gallizzi](https://www.linkedin.com/in/ugallizzi), CIO Director of Engineering
+[Ueli Gallizzi](https://www.linkedin.com/in/ugallizzi)
 
 ##### Description
 During my brief employment rewrote a mission-critical client-facing web service directing clients available servers to start a game session 
@@ -74,7 +74,7 @@ December 2009 – July 2011 
 Software Engineer
 
 ##### Contacts
-* [Carmine Mangione](https://www.linkedin.com/pub/carmine-mangione/0/531/657), Chief Architect
+* [Carmine Mangione](https://www.linkedin.com/pub/carmine-mangione/0/531/657)
 * [Justin Beltran](https://www.linkedin.com/in/justinvbeltran)
 
 ##### Description
