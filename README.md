@@ -9,8 +9,8 @@
 * Proficient HTML/Javascript/CSS Developer Using JQuery, D3JS, Angular Javascript Libraries
 * Proficient Unix User, Apprentice Administrator
 * Advanced Understanding of the JVM
-* Proficient with Message Queue Technologies (Kafka, RabbitMQ)
-* Experience with Redis
+* Proficient with Message Queue/Commit Log Technologies (Kafka, RabbitMQ)
+* Experience with Redis and Redis Clients
 * Experience with JVM Scripting Languages (Jython, Clojure)
 
 ### Secondary Skills
@@ -56,10 +56,10 @@ Senior Software Engineer
 Holistic Software Engineering for the analytics department with three primary goals: algorithm development, internal software libraries, and predictive analytics proof-of-concepts.
 Accomplishments:
 * K-Means, Generalized Linear Model training algorithms under Frank Elliott Restricted-Boltzmann Machine under Andrew Kwok
-* Tensor Library - Java + Jython internal library/best practices for model development and deployment, model summary GUI. Originally Clojure+Java
+* Tensor Library - Java + Jython internal library/best practices for model development and deployment, model summary GUI; Originally Clojure+Java
 * Novel application of existing software tools to data-science problems
 
-#### [Gaikai](https://www.linkedin.com/company/gaikai) - Browser Based Video Game Streaming Startup
+#### [Gaikai](https://www.linkedin.com/company/gaikai) - Video Game Streaming Startup
 August 2011 - December 2011   
 Software Engineer  
 
@@ -99,7 +99,7 @@ Who am I? I am a Stanford Graduate devoted to holistic software engineering.
 My initial work at SpeedTax was developing web applications and services has proven immediately valuable to all of my employers.
 After a brief stint at Gaikai I worked in the analytics department in Opera Solutions under Frank Elliott, Carmine Mangione and Kathleen Crowe.
 My position there was scientifically compelling and gave me a unique engineering perspective on the effort it takes to build a predictive analytics tools and products.
-Finally I returned to my roots developing web applications, services, and development tools to aid porch.com’s rapid growth.
+Most recently I returned to my roots developing web applications, services, and development tools to aid porch.com’s rapid growth.
 
 My family and peers describe me as a very balanced individual.
 My employers will gladly tell you about my outstanding work ethic, effective communication abilities, and flexible attitude.
