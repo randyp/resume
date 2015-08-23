@@ -89,8 +89,8 @@ Agile Java Development and IT essential to growth and sale of SpeedTax. Part of 
 <hr>
 
 ### Education
-Stanford University, BS Computer Science  Stanford  
-GPA: 3.337   
+Stanford University, BS Computer Science  
+GPA: 3.337
 Graduated: June 14 2009  
 
 ### About
