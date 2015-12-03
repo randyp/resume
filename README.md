@@ -4,7 +4,7 @@
 * Expert Java Development and Broad Experience in Related Fields
 * Adept in Extreme/Agile Development Disciplines
 * Object Oriented Design/Pair-Programming/Test Driven Development Mentor
-* Practiced Web Application Authorship and Design
+* Practiced Web Application and Service Authorship
 * Expert SQL and JDBC Programmer, Apprentice MySQL/Postgres+PostGIS DBA
 * Proficient HTML/Javascript/CSS Developer Using JQuery, D3JS, Angular Javascript Libraries
 * Proficient Unix User, Apprentice Administrator
@@ -12,6 +12,7 @@
 * Proficient with Message Queue Technologies (Kafka, RabbitMQ)
 * Experience with Redis
 * Experience with JVM Scripting Languages (Jython, Clojure)
+* Experience with Container Based Virtualization (Docker)
 
 ### Secondary Skills
 * Rudimentary Understanding of Generalized Linear Models using Iterative Methods
@@ -43,6 +44,8 @@ As part of a team, worked on many projects and services. Examples:
 * Build tools, deploy tools, Dev. Ops. support, Pager Duty, VPC migration
 * Database migrations, query optimizations (GIS, term search, and other wise) Dropwizard Services of Acceptance/Integration Testing for most of above
 
+
+
 #### [Opera Solutions](https://www.linkedin.com/company/opera-solutions) - Predictive Analytics Startup
 December 2011 – August 2013     
 Senior Software Engineer  
@@ -59,6 +62,8 @@ Accomplishments:
 * Tensor Library - Java + Jython internal library/best practices for model development and deployment, model summary GUI. Originally Clojure+Java
 * Novel application of existing software tools to data-science problems
 
+
+
 #### [Gaikai](https://www.linkedin.com/company/gaikai) - Browser Based Video Game Streaming Startup
 August 2011 - December 2011   
 Software Engineer  
@@ -68,6 +73,8 @@ Software Engineer
 
 ##### Description
 During my brief employment rewrote a mission-critical client-facing web service directing clients available servers to start a game session 
+
+
 
 #### SpeedTax - Sales Tax Calculation/Remittance S.A.S. Startup
 December 2009 – July 2011   
