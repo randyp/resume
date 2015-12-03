@@ -9,8 +9,8 @@
 * Proficient HTML/Javascript/CSS Developer Using JQuery, D3JS, Angular Javascript Libraries
 * Proficient Unix User, Apprentice Administrator
 * Advanced Understanding of the JVM
-* Proficient with Message Queue Technologies (Kafka, RabbitMQ)
-* Experience with Redis
+* Proficient with Message Queue/Data Stream Technologies (Kafka, RabbitMQ)
+* Experience with Redis and Redis Clients
 * Experience with JVM Scripting Languages (Jython, Clojure)
 * Experience with Container Based Virtualization (Docker)
 
@@ -29,11 +29,11 @@
 ### Work History
 
 #### [porch.com](https://www.linkedin.com/company/porch) - Premier Home Services Startup
-September 2013 – January 2015  
-Senior Software Engineer  
+September 2013 – January 2015
+Senior Software Engineer
 
 ##### Contacts
-* [Eric Schleicher](https://github.com/eric-schleicher) 
+* [Eric Schleicher](https://github.com/eric-schleicher)
 * [Ben Walker](https://www.linkedin.com/pub/benjamin-walker/a/502/4a6)
 * [Kyle Van Vranken](https://www.linkedin.com/in/kylevanvranken)
 
@@ -47,29 +47,29 @@ As part of a team, worked on many projects and services. Examples:
 
 
 #### [Opera Solutions](https://www.linkedin.com/company/opera-solutions) - Predictive Analytics Startup
-December 2011 – August 2013     
-Senior Software Engineer  
+December 2011 – August 2013 
+Senior Software Engineer
 
 ##### Contacts
-* [Frank Elliott Jr PhD](https://www.linkedin.com/pub/frank-elliott/2/ba0/490), Principal Scientist
-* [Carmine Mangione](https://www.linkedin.com/pub/carmine-mangione/0/531/657), Chief Architect
-* [Kathleen Crowe PhD](https://www.linkedin.com/pub/kathleen-crowe/7/a70/100), Director of Analytics
+* [Frank Elliott Jr PhD](https://www.linkedin.com/pub/frank-elliott/2/ba0/490)
+* [Carmine Mangione](https://www.linkedin.com/pub/carmine-mangione/0/531/657)
+* [Kathleen Crowe PhD](https://www.linkedin.com/pub/kathleen-crowe/7/a70/100)
 
 ##### Description
 Holistic Software Engineering for the analytics department with three primary goals: algorithm development, internal software libraries, and predictive analytics proof-of-concepts.
 Accomplishments:
 * K-Means, Generalized Linear Model training algorithms under Frank Elliott Restricted-Boltzmann Machine under Andrew Kwok
-* Tensor Library - Java + Jython internal library/best practices for model development and deployment, model summary GUI. Originally Clojure+Java
+* Tensor Library - Java + Jython internal library/best practices for model development and deployment, model summary GUI; Originally Clojure+Java
 * Novel application of existing software tools to data-science problems
 
 
 
-#### [Gaikai](https://www.linkedin.com/company/gaikai) - Browser Based Video Game Streaming Startup
+#### [Gaikai](https://www.linkedin.com/company/gaikai) - Video Game Streaming Startup
 August 2011 - December 2011   
-Software Engineer  
+Software Engineer
 
 ##### Contacts
-[Ueli Gallizzi](https://www.linkedin.com/in/ugallizzi), CIO Director of Engineering
+[Ueli Gallizzi](https://www.linkedin.com/in/ugallizzi)
 
 ##### Description
 During my brief employment rewrote a mission-critical client-facing web service directing clients available servers to start a game session 
@@ -77,11 +77,11 @@ During my brief employment rewrote a mission-critical client-facing web service 
 
 
 #### SpeedTax - Sales Tax Calculation/Remittance S.A.S. Startup
-December 2009 – July 2011   
+December 2009 – July 2011 
 Software Engineer
 
 ##### Contacts
-* [Carmine Mangione](https://www.linkedin.com/pub/carmine-mangione/0/531/657), Chief Architect
+* [Carmine Mangione](https://www.linkedin.com/pub/carmine-mangione/0/531/657)
 * [Justin Beltran](https://www.linkedin.com/in/justinvbeltran)
 
 ##### Description
@@ -96,17 +96,18 @@ Agile Java Development and IT essential to growth and sale of SpeedTax. Part of 
 <hr>
 
 ### Education
-Stanford University, BS Computer Science  Stanford  
-GPA: 3.337   
-Graduated: June 14 2009  
+Stanford University, BS Computer Science
+GPA: 3.337
+Graduated: June 14 2009
 
 ### About
 
 Who am I? I am a Stanford Graduate devoted to holistic software engineering.
-My initial work at SpeedTax was developing web applications and services has proven immediately valuable to all of my employers.
+I've been on sabbatical recently, taking a well deserved break after working at an alphabet of start-ups.
+I started at SpeedTax, where I was apprenticed in web applications and services.
 After a brief stint at Gaikai I worked in the analytics department in Opera Solutions under Frank Elliott, Carmine Mangione and Kathleen Crowe.
 My position there was scientifically compelling and gave me a unique engineering perspective on the effort it takes to build a predictive analytics tools and products.
-Finally I returned to my roots developing web applications, services, and development tools to aid porch.com’s rapid growth.
+Finally I returned to my roots developing web applications, services, and development operations to aid porch.com’s rapid growth.
 
 My family and peers describe me as a very balanced individual.
 My employers will gladly tell you about my outstanding work ethic, effective communication abilities, and flexible attitude.
