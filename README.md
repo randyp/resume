@@ -28,6 +28,24 @@
 
 ### Work History
 
+#### [Panopto](http://panopto.com/) - Video Content Management
+October 2015 - December 2015
+Software Developer
+
+##### Contacts
+* [Tim Sullivan](https://www.linkedin.com/in/tim-sullivan-9104888)
+* [Zac Rumford](https://www.linkedin.com/in/zac-rumford-0a001b29)
+
+##### Description
+Hired on the server team and completed two primary projects during my brief stay. Made the tough decision to leave so that I could take my career in a different direction.
+
+##### Projects
+* Upgraded AWS SDK, [minor bug fix to .NET open source library for S3 multipart upload](https://github.com/aws/aws-sdk-net/pull/264)
+* Introduced caching layer
+* Minor refactorings around AWS usage
+
+
+
 #### [porch.com](https://www.linkedin.com/company/porch) - Premier Home Services Startup
 September 2013 – January 2015
 Senior Software Engineer
@@ -40,6 +58,8 @@ Senior Software Engineer
 ##### Description
 Development/refactoring of services, development tools, java mentoring using test driving development, and general problem solving essential to porch.com’s growth.
 As part of a team, worked on many projects and services. Examples:
+
+##### Projects
 * Managed Data Service to capture Master Data Management best practices for porch’s domain Publish Service (denormalize & aggregate master relational DB using Kakfa) Company/Home Professional, Project, and Image Search Service
 * Build tools, deploy tools, Dev. Ops. support, Pager Duty, VPC migration
 * Database migrations, query optimizations (GIS, term search, and other wise) Dropwizard Services of Acceptance/Integration Testing for most of above
@@ -57,7 +77,8 @@ Senior Software Engineer
 
 ##### Description
 Holistic Software Engineering for the analytics department with three primary goals: algorithm development, internal software libraries, and predictive analytics proof-of-concepts.
-Accomplishments:
+
+##### Projects
 * K-Means, Generalized Linear Model training algorithms under Frank Elliott Restricted-Boltzmann Machine under Andrew Kwok
 * Tensor Library - Java + Jython internal library/best practices for model development and deployment, model summary GUI; Originally Clojure+Java
 * Novel application of existing software tools to data-science problems
@@ -86,6 +107,8 @@ Software Engineer
 
 ##### Description
 Agile Java Development and IT essential to growth and sale of SpeedTax. Part of a four- man development team practicing Extreme Programming under Carmine Mangione responsible for:
+
+##### Projects
 * Core tax calculation and Streamlined Sales Tax web services
 * Zip Tax Rate Tables using TIGERLine and third-party GIS boundary data
 * Sales Tax Jurisdiction Technology
