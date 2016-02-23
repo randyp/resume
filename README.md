@@ -17,12 +17,10 @@
 ### Secondary Skills
 * Rudimentary Understanding of Generalized Linear Models using Iterative Methods
 * Elastic Search Index development
-* General IT Troubleshooting and Communication Experience
 * Amazon EC2 and S3 Experience
 * GIS Experience using PostGIS Plugin, OpenJUMP and Google Earth
 * JNI, C++, C Experience
-* Minor Experience with Other Web-Programming Languages: PHP, Ruby (on Rails), Flash
-* Minor Experience with LISP, Verilog, Python, LUA and MIPS Assembly Code
+* General IT Troubleshooting and Communication Experience
 
 <hr>
 
