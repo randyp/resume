@@ -26,24 +26,6 @@
 
 ### Work History
 
-#### [Panopto](http://panopto.com/) - Video Content Management
-October 2015 - December 2015
-Software Developer
-
-##### Contacts
-* [Tim Sullivan](https://www.linkedin.com/in/tim-sullivan-9104888)
-* [Zac Rumford](https://www.linkedin.com/in/zac-rumford-0a001b29)
-
-##### Description
-Hired on the server team and completed two primary projects during my brief stay. Made the tough decision to leave so that I could take my career in a different direction.
-
-##### Projects
-* Upgraded AWS SDK, [minor bug fix to .NET open source library for S3 multipart upload](https://github.com/aws/aws-sdk-net/pull/264)
-* Introduced caching layer
-* Minor refactorings around AWS usage
-
-
-
 #### [porch.com](https://www.linkedin.com/company/porch) - Premier Home Services Startup
 September 2013 – January 2015
 Senior Software Engineer
