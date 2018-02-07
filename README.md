@@ -1,16 +1,16 @@
-## Randy Pensinger - Software Engineer
+# Randy Pensinger - Software Engineer
 
-##### Objective
+#### Objective
 Seeking holistic software engineering opportunities in the Portland area. Relocating from Seattle.
 
-##### Primary Skills
+#### Primary Skills
 * Web Application and Service Development (Java, SQL, Perl, HTML, CSS, Javascript)
 * Agile Planning, Object Oriented Design, Test Driven Development
 * Message Queue & Data Stream Application Development (Kinesis, Kafka, RabbitMQ)
 * Performance Tuning, Troubleshooting and Communication
 * Hiring and Mentoring
 
-##### Secondary Skills
+#### Secondary Skills
 * AWS & Unix Administration, Docker Deployment
 * MySQL/Postgres Administration
 * JVM Scripting Languages (Jython, Clojure)
@@ -21,35 +21,50 @@ Seeking holistic software engineering opportunities in the Portland area. Reloca
 #### Work History
 
 ##### [MediaAlpha - Vertical Search Lead Exchange](https://www.linkedin.com/company/mediaalpha/)
-Senior Software Engineer: March 2016 - Present
-Contact: [Amy Yeh](https://www.linkedin.com/in/amyyeh/)
+<p>
+Senior Software Engineer: March 2016 - Present<br>
+Contact: <a href='https://www.linkedin.com/in/amyyeh/'>Amy Yeh</a>
+</p>
+
 * Katch (Health/Life/Medicare) Acquisition, Travel Deal Marketing Email Relaunch
 * Exchange, Ad Serving, Reporting Features and Fixes
 * Advertiser Integration Development, Publisher Integration Coaching
 
-##### [Porch.com - Home Improvement Marketplace](https://www.linkedin.com/company/porch) 
-Senior Software Engineer: September 2013 – January 2015
-Contact: [Ben Walker](https://www.linkedin.com/pub/benjamin-walker/a/502/4a6)
+##### [Porch.com - Home Improvement Marketplace](https://www.linkedin.com/company/porch)
+<p> 
+Senior Software Engineer: September 2013 – January 2015<br>
+Contact: <a href='https://www.linkedin.com/pub/benjamin-walker/a/502/4a6'>Ben Walker</a>
+</p>
+
 * Managed Data Service (Master Data Management), Published Data Service (Aggregates, Search Indices, De-normalizations)
 * SQL Migration & Performance, Landing Page/Search/SEO Performance, Caching Re-Architecture
 * VPC Migration, Build & Release Engineering, Dev-Ops, Pager Duty    
 
 ##### [Opera Solutions - Predictive Analytics](https://www.linkedin.com/company/opera-solutions)
-Senior Software Engineer: December 2011 – August 2013 
-Contact: [Carmine Mangione](https://www.linkedin.com/pub/carmine-mangione/0/531/657)
+<p>
+Senior Software Engineer: December 2011 – August 2013 <br>
+Contact: <a href='https://www.linkedin.com/pub/carmine-mangione/0/531/657'>Carmine Mangione</a>
+</p>
+
 * GLM, Restricted-Boltzmann, K-Means Development and Usage
 * Calculation Log, Model Summary UI, Model Drift Detection 
 * Model Creation Speed Optimization
 
 
 ##### [Gaikai - Video Game Streaming Startup](https://www.linkedin.com/company/gaikai)
-Software Engineer: August 2011 - December 2011
-Contact: [Justin Beltran](https://www.linkedin.com/in/justinvbeltran/)
+<p>
+Software Engineer: August 2011 - December 2011<br>
+Contact: <a href='https://www.linkedin.com/in/justinvbeltran/'>Justin Beltran</a>
+</p>
+
 * Client-facing game/server availability API
 
 ##### [SpeedTax - Sales Tax S.A.S.](https://www.linkedin.com/company/449422/)
-Software Engineer: December 2009 – July 2011 
-Contact: [Carmine Mangione](https://www.linkedin.com/pub/carmine-mangione/0/531/657)
+<p>
+Software Engineer, December 2009 – July 2011 <br>
+Contact: <a href='https://www.linkedin.com/pub/carmine-mangione/0/531/657'>Carmine Mangione</a>
+</p>
+
 * Tax calculation API, Streamlined Sales Tax Integration, Jurisdiction Resolution Rewrite
 * Tax Return Generation, Web Console Rewrite
 * Leadership During Transition 
