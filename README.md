@@ -1,7 +1,7 @@
 # Randy Pensinger - Software Engineer
 
 #### Objective
-Seeking holistic software engineering opportunities in the Portland area. Relocating from Seattle.
+Considering holistic software engineering opportunities in the Portland area. Relocating from Seattle.
 
 #### Primary Skills
 * Web Application and Service Development (Java, SQL, Perl, HTML, CSS, Javascript)
