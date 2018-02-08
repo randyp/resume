@@ -21,53 +21,44 @@ Seeking holistic software engineering opportunities in the Portland area. Reloca
 #### Work History
 
 ##### [MediaAlpha - Vertical Search Lead Exchange](https://www.linkedin.com/company/mediaalpha/)
-<p>
-Senior Software Engineer: March 2016 - Present<br>
-Contact: <a href='https://www.linkedin.com/in/amyyeh/'>Amy Yeh</a>
-</p>
+Senior Software Engineer: March 2016 - Present
 
-* Katch (Health/Life/Medicare) Acquisition, Travel Deal Marketing Email Relaunch
-* Exchange, Ad Serving, Reporting Features and Fixes
-* Advertiser Integration Development, Publisher Integration Coaching
+
+Assisted in Katch acquisition (Health/Life/Medicare).
+Re-launched travel deal marketing email.
+Developed exchange, ad serving, and reporting.
+Authored and maintained Advertiser Integration. Coached Publisher Integrations.
 
 ##### [Porch.com - Home Improvement Marketplace](https://www.linkedin.com/company/porch)
-<p> 
-Senior Software Engineer: September 2013 – January 2015<br>
-Contact: <a href='https://www.linkedin.com/pub/benjamin-walker/a/502/4a6'>Ben Walker</a>
-</p>
+Senior Software Engineer: September 2013 – January 2015
 
-* Managed Data Service (Master Data Management), Published Data Service (Aggregates, Search Indices, De-normalizations)
-* SQL Migration & Performance, Landing Page/Search/SEO Performance, Caching Re-Architecture
-* VPC Migration, Build & Release Engineering, Dev-Ops, Pager Duty    
+
+Co-authored Managed Data Service (Master Data Management), Published Data Service (Aggregates, Search Indices, De-normalizations).
+Performed SQL migrations and tuned queries.
+Improved landing page, search, seo page performance.
+Assisted in VPC Migration, build & release engineering, dev-ops responsibilities and pager duty.  
 
 ##### [Opera Solutions - Predictive Analytics](https://www.linkedin.com/company/opera-solutions)
-<p>
-Senior Software Engineer: December 2011 – August 2013 <br>
-Contact: <a href='https://www.linkedin.com/pub/carmine-mangione/0/531/657'>Carmine Mangione</a>
-</p>
+Senior Software Engineer: December 2011 – August 2013 
 
-* GLM, Restricted-Boltzmann, K-Means Development and Usage
-* Calculation Log, Model Summary UI, Model Drift Detection 
-* Model Creation Speed Optimization
 
+Assisted development and usage of GLM, Restricted-Boltzmann, K-Means.
+Authored calculation log, model summary UI, model drift detection tools. Assisted in model creation optimizations.
 
 ##### [Gaikai - Video Game Streaming Startup](https://www.linkedin.com/company/gaikai)
-<p>
-Software Engineer: August 2011 - December 2011<br>
-Contact: <a href='https://www.linkedin.com/in/justinvbeltran/'>Justin Beltran</a>
-</p>
+Software Engineer: August 2011 - December 2011
 
-* Client-facing game/server availability API
+
+Re-implemented client-facing game/server availability API for youtube launch.
 
 ##### [SpeedTax - Sales Tax S.A.S.](https://www.linkedin.com/company/449422/)
-<p>
-Software Engineer, December 2009 – July 2011 <br>
-Contact: <a href='https://www.linkedin.com/pub/carmine-mangione/0/531/657'>Carmine Mangione</a>
-</p>
+Software Engineer: December 2009 – July 2011 
 
-* Tax calculation API, Streamlined Sales Tax Integration, Jurisdiction Resolution Rewrite
-* Tax Return Generation, Web Console Rewrite
-* Leadership During Transition 
+
+Developed tax calculation API and tax return generation.
+Authored streamlined sales tax integration.
+Authored sales in-house tax jurisdiction resolution.
+Re-wrote web console. Briefly lead team during leadership transition.
 
 #### Education
 Stanford University, BS Computer Science
