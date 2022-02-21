@@ -1,49 +1,55 @@
 # Randy Pensinger - Software Engineer
 
 #### Objective
-Considering holistic software engineering opportunities in the Portland area. Relocating from Seattle.
+_Not actually considering._
+
+Considering holistic software engineering opportunities.
 
 #### Primary Skills
-* Web Application and Service Development (Java, SQL, Perl, HTML, CSS, Javascript)
-* Agile Planning, Object Oriented Design, Test Driven Development
-* Message Queue & Data Stream Application Development (Kinesis, Kafka, RabbitMQ)
-* Performance Tuning, Troubleshooting and Communication
-* Hiring and Mentoring
+* Web application and service development and architecture (Java, SQL, Python, Perl, HTML, CSS, Javascript)
+* Code design (object-oriented, functional) and code quality (test driven development, unit tests)
+* Problem solving, performance tuning, troubleshooting and communication
+* Message queue & data stream application development (Kinesis, Kafka, RabbitMQ)
+* Hiring, training and mentoring
 
 #### Secondary Skills
-* AWS & Unix Administration, Docker Deployment
-* MySQL/Postgres Administration
-* JVM Scripting Languages (Jython, Clojure)
-* Data Visualization
-* Postgres GIS Database and Related Technologies
+* Technology team leadership
+* MySQL/Postgres administration
+* React SPA development and deploymenent
+* Pager duty, incident response
+* AWS & Unix administration, Docker deployment
+* JVM scripting languages (Jython, Clojure)
+* Data visualization
+* Postgres GIS database
 * JNI, C++, C
 
 #### Work History
 
 ##### [MediaAlpha - Vertical Search Lead Exchange](https://www.linkedin.com/company/mediaalpha/)
-Senior Software Engineer: March 2016 - Present
+Senior Software Engineer & Tech Team Lead: March 2016 - Present
 
 
-Assisted in Katch acquisition (Health/Life/Medicare).
-Re-launched travel deal marketing email.
-Developed exchange, ad serving, and reporting.
-Authored and maintained Advertiser Integration. Coached Publisher Integrations.
+Improvements to exchange SPA, ad serving, and reporting infrastructure.
+Leadership for machine learning team (ad ranking, campaign optimization, publisher optimizations, forecasting).
+Assisted with acquisitions (Health/Life/Medicare).
+Assisted with integrations (publisher, advertiser).
 
 ##### [Porch.com - Home Improvement Marketplace](https://www.linkedin.com/company/porch)
 Senior Software Engineer: September 2013 – January 2015
 
 
-Co-authored Managed Data Service (Master Data Management), Published Data Service (Aggregates, Search Indices, De-normalizations).
-Performed SQL migrations and tuned queries.
-Improved landing page, search, seo page performance.
-Assisted in VPC Migration, build & release engineering, dev-ops responsibilities and pager duty.  
+Co-authored Managed Data service (master data management), Published Data service (aggregates, search indices, denormalizations).
+SQL migrations and query tuning.
+Optimized landing page, search, and seo page load performance.
+Assisted in VPC Migration, build & release engineering, dev-ops and pager duty.  
 
 ##### [Opera Solutions - Predictive Analytics](https://www.linkedin.com/company/opera-solutions)
 Senior Software Engineer: December 2011 – August 2013 
 
 
 Assisted development and usage of GLM, Restricted-Boltzmann, K-Means.
-Authored calculation log, model summary UI, model drift detection tools. Assisted in model creation optimizations.
+Authored calculation log, model summary UI, model drift detection tools.
+Assisted in model creation optimizations.
 
 ##### [Gaikai - Video Game Streaming Startup](https://www.linkedin.com/company/gaikai)
 Software Engineer: August 2011 - December 2011
@@ -58,7 +64,8 @@ Software Engineer: December 2009 – July 2011 
 Developed tax calculation API and tax return generation.
 Authored streamlined sales tax integration.
 Authored sales in-house tax jurisdiction resolution.
-Re-wrote web console. Briefly lead team during leadership transition.
+Re-wrote web console.
+Briefly lead team during leadership transition.
 
 #### Education
 Stanford University, BS Computer Science
