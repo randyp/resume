@@ -34,7 +34,7 @@ Leadership for machine learning team (ad ranking, campaign optimization, publish
 Assisted with acquisitions (Health/Life/Medicare).
 Assisted with integrations (publisher, advertiser).
 
-##### [Porch.com - Home Improvement Marketplace](https://www.linkedin.com/company/porch)
+##### [Porch.com - Home Improvement Marketplace](https://en.wikipedia.org/wiki/Porch_(company))
 Senior Software Engineer: September 2013 – January 2015
 
 
@@ -43,7 +43,7 @@ SQL migrations and query tuning.
 Optimized landing page, search, and seo page load performance.
 Assisted in VPC Migration, build & release engineering, dev-ops and pager duty.  
 
-##### [Opera Solutions - Predictive Analytics](https://www.linkedin.com/company/opera-solutions)
+##### [Opera Solutions - Predictive Analytics](https://www.linkedin.com/company/operasolutions/)
 Senior Software Engineer: December 2011 – August 2013 
 
 
@@ -51,13 +51,13 @@ Assisted development and usage of GLM, Restricted-Boltzmann, K-Means.
 Authored calculation log, model summary UI, model drift detection tools.
 Assisted in model creation optimizations.
 
-##### [Gaikai - Video Game Streaming Startup](https://www.linkedin.com/company/gaikai)
+##### [Gaikai - Video Game Streaming Startup](https://en.wikipedia.org/wiki/Gaikai)
 Software Engineer: August 2011 - December 2011
 
 
 Re-implemented client-facing game/server availability API for youtube launch.
 
-##### [SpeedTax - Sales Tax S.A.S.](https://www.linkedin.com/company/449422/)
+##### [SpeedTax - Sales Tax S.A.S.](https://en.wikipedia.org/wiki/SpeedTax)
 Software Engineer: December 2009 – July 2011 
 
 
