@@ -9,7 +9,6 @@ Considering holistic software engineering opportunities.
 * Web application and service development and architecture (Java, SQL, Python, Perl, HTML, CSS, Javascript)
 * Code design (object-oriented, functional) and code quality (test driven development, unit tests)
 * Problem solving, performance tuning, troubleshooting and communication
-* Message queue & data stream application development (Kinesis, Kafka, RabbitMQ)
 * Hiring, training and mentoring
 
 #### Secondary Skills
@@ -18,6 +17,7 @@ Considering holistic software engineering opportunities.
 * React SPA development and deploymenent
 * Pager duty, incident response
 * AWS & Unix administration, Docker deployment
+* Message queue & data stream application development (Kinesis, Kafka, RabbitMQ)
 * JVM scripting languages (Jython, Clojure)
 * Data visualization
 * Postgres GIS database
