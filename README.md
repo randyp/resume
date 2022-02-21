@@ -10,9 +10,9 @@ Considering holistic software engineering opportunities.
 * Code design (object-oriented, functional) and code quality (test driven development, unit tests)
 * Problem solving, performance tuning, troubleshooting and communication
 * Hiring, training and mentoring
+* Technology team leadership
 
 #### Secondary Skills
-* Technology team leadership
 * MySQL/Postgres administration
 * React SPA development and deploymenent
 * Pager duty, incident response
