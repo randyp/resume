@@ -5,7 +5,7 @@ _Not actually_ Considering holistic software engineering opportunities.
 
 #### Primary Skills
 * Web application/service development and architecture (Java, SQL, Python, Perl, HTML, CSS, Javascript)
-* Code design (object-oriented, functional), code quality (test driven development, unit tests)
+* Code design (object-oriented, functional) and quality (test driven development, unit tests)
 * Problem solving, performance tuning, troubleshooting
 * Hiring, training, mentoring
 * Technology team leadership, communication, business and product alignment
@@ -31,7 +31,7 @@ Leadership for machine learning team (ad ranking, publisher optimization, anomal
 Assisted with acquisitions (health/life/medicare).
 Assisted with integrations (publisher, advertiser).
 
-##### [Porch.com - Home Improvement Marketplace](https://en.wikipedia.org/wiki/Porch_(company))
+##### [Porch.com - Home Improvement Marketplace](https://en.wikipedia.org/wiki/Porch_%28company%29)
 Senior Software Engineer: September 2013 – January 2015
 
 
