@@ -1,22 +1,23 @@
 # Randy Pensinger - Software Engineer
 
+## Not interested in job opportunities.
+
 #### Objective
-Not interested in job opportunities.
-~~Considering holistic software engineering opportunities.~~
+Holistic software engineering.
 
 #### Primary Skills
-* Web application/service development (Java, SQL, Python, Perl, HTML, CSS, Javascript)
-* Code design (object-oriented, functional), Code quality (test driven development, unit tests)
+* Web application & service development (Java, SQL, Python, Perl, HTML, CSS, Javascript)
 * Problem solving, Performance tuning, Troubleshooting
-* Hiring, Training, Mentoring
 * Technology team leadership, Communication, Business and product alignment
+* Code design (Object-oriented, Functional), Code quality (Test driven development, Unit tests)
+* Hiring, Training, Mentoring
 * Build engineering, CI/CD administration
 
 #### Secondary Skills
-* Machine learning leadership
-* React SPA development
 * Pager duty, Incident response
-* AWS & Unix administration, Docker deployment
+* Machine Learning leadership
+* AWS & Unix administration
+* React SPA development
 * Message queue & data stream application development (Kinesis, Kafka, RabbitMQ)
 * Data visualization
 
@@ -26,8 +27,8 @@ Not interested in job opportunities.
 Senior Software Engineer & Tech Team Lead: March 2016 - Present
 
 
-Improvements to exchange SPA, ad serving, and reporting infrastructure.
-Leadership for machine learning team (real-time bidding, publisher optimizations, anomaly detection).
+Product motivated, hands-on architectural improvements to the Exchange SPA, Ad Serving, Reporting, Security and Data Privacy.
+Leadership for the Machine Learning team (Real-time bidding, Publisher optimizations, Anomaly detection).
 Assisted with M&A.
 Assisted in VPC migration, build & release engineering, dev-ops and pager duty.  
 Assisted with integrations (publisher, advertiser, third-party).
@@ -36,10 +37,10 @@ Assisted with integrations (publisher, advertiser, third-party).
 Senior Software Engineer: September 2013 – January 2015
 
 
-Co-authored Managed Data service (master data management), Published Data service (aggregates, search indices, denormalizations).
+Co-authored Managed Data service (Master data management), Published aata service (Aggregates, Search indices, related denormalizations).
 SQL migrations and query tuning.
 Optimized landing page performance, search page performance.
-Assisted in VPC migration, build & release engineering, dev-ops and pager duty.  
+Assisted in VPC migration, Build & Release engineering, Dev-ops and Pager duty.  
 
 ##### [Opera Solutions - Predictive Analytics](https://www.linkedin.com/company/operasolutions/)
 Senior Software Engineer: December 2011 – August 2013 
