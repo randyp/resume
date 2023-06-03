@@ -1,6 +1,6 @@
 # Randy Pensinger - Software Engineer
 
-## Not interested in job opportunities.
+*Not interested in job opportunities.*
 
 #### Objective
 Holistic software engineering.
@@ -27,11 +27,10 @@ Holistic software engineering.
 Senior Software Engineer & Tech Team Lead: March 2016 - Present
 
 
-Product motivated, hands-on architectural improvements to the Exchange SPA, Ad Serving, Reporting, Security and Data Privacy.
-Leadership for the Machine Learning team (Real-time bidding, Publisher optimizations, Anomaly detection).
+Product motivated, hands-on architectural improvements to the Exchange SPA, Ad Serving, Reporting, Security, Data Privacy, client integrations and more.
+Machine Learning team lead (Real-time bidding, Publisher optimizations, Anomaly detection).
 Assisted with M&A.
 Assisted in VPC migration, build & release engineering, dev-ops and pager duty.  
-Assisted with integrations (publisher, advertiser, third-party).
 
 ##### [Porch.com - Home Improvement Marketplace](https://en.wikipedia.org/wiki/Porch_%28company%29)
 Senior Software Engineer: September 2013 – January 2015
@@ -48,13 +47,13 @@ Senior Software Engineer: December 2011 – August 2013 
 
 Assisted development and usage of GLM, Restricted-Boltzmann, K-Means.
 Assisted in model creation optimizations.
-Authored calculation log, model summary UI, model drift detection tools.
+Authored Calculation log, Model summary UI, Model drift detection tools.
 
 ##### [Gaikai - Video Game Streaming Startup](https://en.wikipedia.org/wiki/Gaikai)
 Software Engineer: August 2011 - December 2011
 
 
-Implemented client-facing game/server availability API for youtube launch.
+Implemented client-facing game/server availability API for YouTube launch.
 
 ##### [SpeedTax - Sales Tax S.A.S.](https://en.wikipedia.org/wiki/SpeedTax)
 Software Engineer: December 2009 – July 2011 
