@@ -36,7 +36,7 @@ Assisted in VPC migration, build & release engineering, dev-ops and pager duty.
 Senior Software Engineer: September 2013 – January 2015
 
 
-Co-authored Managed Data service (Master data management), Published aata service (Aggregates, Search indices, related denormalizations).
+Co-authored Managed Data service (Master data management), Published data service (Aggregates, Search indices, related denormalizations).
 SQL migrations and query tuning.
 Optimized landing page performance, search page performance.
 Assisted in VPC migration, Build & Release engineering, Dev-ops and Pager duty.  
