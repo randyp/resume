@@ -8,18 +8,16 @@ Holistic software engineering.
 #### Primary Skills
 * Web application & service development (Java, SQL, Python, Perl, HTML, CSS, Javascript)
 * Problem solving, Performance tuning, Troubleshooting
-* Technology team leadership, Communication, Business and product alignment
+* Technology team leadership, Communication, Business and Product alignment
 * Code design (Object-oriented, Functional), Code quality (Test driven development, Unit tests)
 * Hiring, Training, Mentoring
 * Build engineering, CI/CD administration
 
 #### Secondary Skills
-* Pager duty, Incident response
+* Pager Duty, Production Application Support
 * Machine Learning leadership
 * AWS & Unix administration
 * React SPA development
-* Message queue & data stream application development (Kinesis, Kafka, RabbitMQ)
-* Data visualization
 
 #### Work History
 
@@ -27,10 +25,10 @@ Holistic software engineering.
 Senior Software Engineer & Tech Team Lead: March 2016 - Present
 
 
-Product motivated, hands-on architectural improvements to the Exchange SPA, Ad Serving, Reporting, Security, Data Privacy, client integrations and more.
+Product motivated, hands-on architectural improvements to the Exchange SPA, Ad Serving, Reporting, Security, Data Privacy, Client Integrations and more.
 Machine Learning team lead (Real-time bidding, Publisher optimizations, Anomaly detection).
 Assisted with M&A.
-Assisted in VPC migration, build & release engineering, dev-ops and pager duty.  
+Assisted in VPC migration, build & release engineering, dev-ops and pager duty.
 
 ##### [Porch.com - Home Improvement Marketplace](https://en.wikipedia.org/wiki/Porch_%28company%29)
 Senior Software Engineer: September 2013 – January 2015
@@ -39,7 +37,7 @@ Senior Software Engineer: September 2013 – January 2015
 Co-authored Managed Data service (Master data management), Published data service (Aggregates, Search indices, related denormalizations).
 SQL migrations and query tuning.
 Optimized landing page performance, search page performance.
-Assisted in VPC migration, Build & Release engineering, Dev-ops and Pager duty.  
+Assisted in VPC migration, Build & Release engineering, Dev-ops and pager duty.
 
 ##### [Opera Solutions - Predictive Analytics](https://www.linkedin.com/company/operasolutions/)
 Senior Software Engineer: December 2011 – August 2013 
@@ -67,5 +65,5 @@ Briefly lead team during leadership transition.
 
 #### Education
 Stanford University, BS Computer Science
-Graduated: June 14 2009 
+Graduated: June 14 2009
 GPA: 3.337
