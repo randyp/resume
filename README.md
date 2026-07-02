@@ -6,29 +6,38 @@
 Holistic software engineering.
 
 #### Primary Skills
-* Web application & service development (Java, SQL, Python, Perl, HTML, CSS, Javascript)
-* Problem solving, Performance tuning, Troubleshooting
-* Technology team leadership, Communication, Business and Product alignment
-* Code design (Object-oriented, Functional), Code quality (Test driven development, Unit tests)
-* Hiring, Training, Mentoring
-* Build engineering, CI/CD administration
+* Cross-team system architecture — design, guidance, and incident response across ad serving, reporting, identity, integrations, and ML infrastructure
+* Applied AI — LLM integration, AI workflow design, AI adoption strategy
+* Team leadership — coaching, mentoring, building engineer autonomy
+* Rapid application development — hands-on IC and project lead
+* Database design, modeling, and migration
+* Event tracking, reporting, and invoicing systems
+* Incident response, debugging, performance tuning
+* Code quality and design — test-driven development, code review, architectural patterns
+* Product thinking — requirements distillation, MVP scoping, business-context-driven engineering
+* Technical communication — teaching frameworks, documentation, cross-functional alignment
+* Python, SQL, Perl, JavaScript/React, HTML/CSS, Java
 
 #### Secondary Skills
-* Pager Duty, Production Application Support
-* Machine Learning leadership
-* AWS & Unix administration
+* Authentication architecture (OIDC, OAuth)
+* AWS infrastructure (Fargate, deployment pipelines)
+* Build engineering, CI/CD
 * React SPA development
 
 #### Work History
 
 ##### [MediaAlpha - Vertical Search Lead Exchange](https://www.linkedin.com/company/mediaalpha/)
-Senior Software Engineer & Tech Team Lead: March 2016 - Present
+Senior Principal Software Engineer ← Tech Team Lead ← Senior Software Engineer: March 2016 – Present
 
+Cross-team individual contributor and project guide across the full stack, with direct leadership of the ML/AI engineering team.
 
-Product motivated, hands-on architectural improvements to the Exchange SPA, Ad Serving, Reporting, Security, Data Privacy, Client Integrations and more.
-Machine Learning team lead (Real-time bidding, Publisher optimizations, Anomaly detection).
-Assisted with M&A.
-Assisted in VPC migration, build & release engineering, dev-ops and pager duty.
+* **ML/AI Team Leadership (2022–present).** Lead ML engineering team — coaching, architecture guidance, technical direction. Own ML infrastructure and operational excellence including model serving and training pipelines. Launched AI for Product working group, creating cross-functional alignment around applied AI opportunities. Authored internal AI adoption frameworks ("Navigating AI-Assisted Work," "Always Invite AI to the Table," "MVP Mindset") shaping how the engineering organization approaches AI-assisted development.
+* **Identity & Authentication.** Designed and led OIDC identity provider integration — API, UI, and data model across teams. Leading MA::ID v2, a major identity system overhaul.
+* **Event Tracking, Reporting & Invoicing.** Deep ownership of the Maya reporting platform — architecture, performance optimization, summary table design, data integrity, and pipeline reliability. Revenue alerting and monitoring. Cross-team reporting support.
+* **API Design & R&D.** Designed and built Employee Graph API (GraphQL) from POC to production application. Prototyped distributed locking systems, AI changelog summarization, and bidding signal tools.
+* **Database Design & Modeling.** Schema design and migration across systems — PII management, storage optimization, table architecture, and cross-vertical data cleanup (travel vertical wind-down).
+* **Cross-Team Architecture & Incident Response.** Architectural guidance spanning ad serving, reporting, exchange platform, integrations, and security. Led response to revenue-impacting production incidents. Proactive system-wide troubleshooting and triage.
+* **Foundation (2016–2022).** Hands-on architectural improvements to Exchange SPA, ad serving, reporting, data privacy, and client integrations. Assisted with M&A technical due diligence. VPC migration and build engineering.
 
 ##### [Porch.com - Home Improvement Marketplace](https://en.wikipedia.org/wiki/Porch_%28company%29)
 Senior Software Engineer: September 2013 – January 2015
