@@ -31,13 +31,13 @@ Senior Principal Software Engineer ← Tech Team Lead ← Senior Software Engine
 
 Cross-team individual contributor and project guide across the full stack, with direct leadership of the ML/AI engineering team.
 
-* **ML/AI Team Leadership (2022–present).** Lead ML engineering team — coaching, architecture guidance, technical direction. Own ML infrastructure and operational excellence including model serving and training pipelines. Launched AI for Product working group, creating cross-functional alignment around applied AI opportunities. Authored internal AI adoption frameworks ("Navigating AI-Assisted Work," "Always Invite AI to the Table," "MVP Mindset") shaping how the engineering organization approaches AI-assisted development.
-* **Identity & Authentication.** Designed and led OIDC identity provider integration — API, UI, and data model across teams. Leading MA::ID v2, a major identity system overhaul.
-* **Event Tracking, Reporting & Invoicing.** Deep ownership of the Maya reporting platform — architecture, performance optimization, summary table design, data integrity, and pipeline reliability. Revenue alerting and monitoring. Cross-team reporting support.
-* **API Design & R&D.** Designed and built Employee Graph API (GraphQL) from POC to production application. Prototyped distributed locking systems, AI changelog summarization, and bidding signal tools.
-* **Database Design & Modeling.** Schema design and migration across systems — PII management, storage optimization, table architecture, and cross-vertical data cleanup (travel vertical wind-down).
+* **ML/AI Team Leadership (2022–present).** Lead ML engineering team — coaching, architecture guidance, technical direction. Own ML infrastructure and operational excellence including model serving and training pipelines. Launched a cross-functional working group aligning product and engineering on applied AI opportunities. Authored internal frameworks shaping how the engineering organization approaches AI-assisted development.
+* **Identity & Authentication.** Designed and led an OIDC identity provider integration — API, UI, and data model across teams. Leading a major overhaul of internal identity systems.
+* **Event Tracking, Reporting & Invoicing.** Deep ownership of the core reporting platform — architecture, performance optimization, summary table design, data integrity, and pipeline reliability. Revenue alerting and monitoring. Cross-team reporting support.
+* **API Design & R&D.** Designed and built an internal GraphQL API from proof-of-concept to production application. Prototyped distributed locking systems, AI-assisted tooling, and bidding signal tools.
+* **Database Design & Modeling.** Schema design and migration across systems — PII management, storage optimization, table architecture, and cross-vertical data cleanup.
 * **Cross-Team Architecture & Incident Response.** Architectural guidance spanning ad serving, reporting, exchange platform, integrations, and security. Led response to revenue-impacting production incidents. Proactive system-wide troubleshooting and triage.
-* **Foundation (2016–2022).** Hands-on architectural improvements to Exchange SPA, ad serving, reporting, data privacy, and client integrations. Assisted with M&A technical due diligence. VPC migration and build engineering.
+* **Foundation (2016–2022).** Hands-on architectural improvements to the exchange SPA, ad serving, reporting, data privacy, and client integrations. Assisted with M&A technical due diligence. VPC migration and build engineering.
 
 ##### [Porch.com - Home Improvement Marketplace](https://en.wikipedia.org/wiki/Porch_%28company%29)
 Senior Software Engineer: September 2013 – January 2015
